@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on DBSharpy</title>
+    <link>https://dbsharpy.github.io/page/</link>
+    <description>Recent content in Pages on DBSharpy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jun 2021 23:12:18 -0400</lastBuildDate><atom:link href="https://dbsharpy.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dbsharpy.github.io/about/</link>
+      <pubDate>Fri, 25 Jun 2021 23:12:18 -0400</pubDate>
+      
+      <guid>https://dbsharpy.github.io/about/</guid>
+      <description>About the Blog Owner  haha, that’s me 
+Hey, I&amp;rsquo;m Brandon! I go by DBSharpy on most places on the internet.1 I&amp;rsquo;m a Bajan-American game designer, writer and 3D artist from Brooklyn, NY. But&amp;hellip;that&amp;rsquo;s mostly stuff from the portfolio bio. We can be a bit more informal here.
+As you could imagine, my interests span much further than the above creative outlets that I want to work in. A brief overview of my biggest hobbies:</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://dbsharpy.github.io/archives/</link>
+      <pubDate>Fri, 25 Jun 2021 23:12:18 -0400</pubDate>
+      
+      <guid>https://dbsharpy.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://dbsharpy.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dbsharpy.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

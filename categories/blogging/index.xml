@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on DBSharpy</title>
+    <link>https://dbsharpy.github.io/categories/blogging/</link>
+    <description>Recent content in Blogging on DBSharpy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 10:00:00 -0400</lastBuildDate><atom:link href="https://dbsharpy.github.io/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;m Born!</title>
+      <link>https://dbsharpy.github.io/blog/post/2021-06-26-im-born/</link>
+      <pubDate>Sat, 26 Jun 2021 10:00:00 -0400</pubDate>
+      
+      <guid>https://dbsharpy.github.io/blog/post/2021-06-26-im-born/</guid>
+      <description>About two years ago, I was in a job I wasn&amp;rsquo;t particularly interested in, in a work environment that left me a nervous wreck at all times. To further up the ante, I realized that I was turning 30 soon and that time was growing thin for me to make a major push towards the career and life I wanted.1
+ A visual representation, as rendered in Bitsy, of a good portion of my old job.</description>
+    </item>
+    
+  </channel>
+</rss>
